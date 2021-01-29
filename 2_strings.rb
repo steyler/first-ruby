@@ -10,3 +10,6 @@ puts b.length
 
 c= " esto es\nun string\nde multiples lineas"
 puts c 
+
+age= 26
+puts "mi edad es: #{age} " 
